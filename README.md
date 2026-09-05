@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm **Ranjith Bhaskaran**
 
-### `IT Operations` • `Cloud Infrastructure` • `AWS` • `DevOps` • `Automation`
+### `IT Operations` • `Cloud Infrastructure` • `AWS` • `Azure` • `DevOps` • `Automation`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=15%2B+Years+in+IT+Infrastructure;Cloud+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Linux+%7C+Docker;Building+%26+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=15%2B+Years+in+IT+Infrastructure;IT+Operations+%7C+Cloud+Infrastructure;AWS+%7C+Azure+%7C+DevOps;Docker+%7C+Jenkins+%7C+Terraform;Automation+%7C+Linux+%7C+Python;Building+%26+Learning+Every+Day" alt="Typing SVG" />
 
 <br>
 
@@ -16,23 +16,19 @@
 
 <div align="center">
 
-## 🚀 **ABOUT ME**
-
-</div>
-
-<div align="center">
+## 🚀 ABOUT ME
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 💻 IT Professional
+### 💻 IT Operations
 
-**15+ Years** of experience in
+**15+ Years** of IT experience
 
-IT Infrastructure & Operations
+Infrastructure & Operations
 End User Computing
-Cloud & Enterprise IT
+Enterprise IT Support
 Networking & Security
 Identity & Access Management
 
@@ -40,9 +36,9 @@ Identity & Access Management
 
 <td align="center" width="50%">
 
-### ☁️ Cloud & DevOps Journey
+### ☁️ Cloud & DevOps
 
-Currently building deeper expertise in
+Building deeper expertise in
 
 **AWS • Azure • DevOps**
 **Docker • Jenkins • Terraform**
@@ -59,7 +55,7 @@ Currently building deeper expertise in
 
 <div align="center">
 
-## 🧰 **TECHNOLOGY STACK**
+## 🧰 TECHNOLOGY STACK
 
 ### ☁️ Cloud
 
@@ -69,11 +65,13 @@ Currently building deeper expertise in
 
 <img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,git,github,linux" />
 
-### 💻 Development & Automation
+### 💻 Automation & Scripting
 
 <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 
-### 🖥️ Enterprise IT
+### 🖥️ Microsoft & Enterprise IT
+
+<br>
 
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -88,21 +86,78 @@ Currently building deeper expertise in
 
 <div align="center">
 
-## 🏗️ **INFRASTRUCTURE EXPERIENCE**
+## 🏗️ INFRASTRUCTURE EXPERIENCE
 
 <table>
 <tr>
-<td align="center">🔐<br><b>Identity</b><br>Entra ID<br>Active Directory<br>Okta SSO</td>
-<td align="center">☁️<br><b>Cloud</b><br>AWS<br>Azure<br>Microsoft 365</td>
-<td align="center">🌐<br><b>Networking</b><br>DNS / DHCP<br>Firewalls<br>Wireless</td>
-<td align="center">💻<br><b>Endpoints</b><br>Windows<br>macOS<br>Intune / MDM</td>
+
+<td align="center">
+🔐<br>
+<b>Identity</b><br>
+Entra ID<br>
+Active Directory<br>
+Okta SSO
+</td>
+
+<td align="center">
+☁️<br>
+<b>Cloud</b><br>
+AWS<br>
+Azure<br>
+Microsoft 365
+</td>
+
+<td align="center">
+🌐<br>
+<b>Networking</b><br>
+DNS / DHCP<br>
+Firewalls<br>
+Wireless
+</td>
+
+<td align="center">
+💻<br>
+<b>Endpoints</b><br>
+Windows<br>
+macOS<br>
+Intune / MDM
+</td>
+
 </tr>
 
 <tr>
-<td align="center">🐳<br><b>Containers</b><br>Docker<br>Containerization</td>
-<td align="center">🔄<br><b>CI/CD</b><br>Jenkins<br>GitHub<br>Automation</td>
-<td align="center">🛡️<br><b>Security</b><br>EDR<br>DLP<br>Vulnerability</td>
-<td align="center">📋<br><b>ITSM</b><br>Jira<br>Asset Management<br>Vendor Management</td>
+
+<td align="center">
+🐳<br>
+<b>Containers</b><br>
+Docker<br>
+Containerization
+</td>
+
+<td align="center">
+🔄<br>
+<b>CI/CD</b><br>
+Jenkins<br>
+GitHub<br>
+Automation
+</td>
+
+<td align="center">
+🛡️<br>
+<b>Security</b><br>
+EDR<br>
+DLP<br>
+Vulnerability Management
+</td>
+
+<td align="center">
+📋<br>
+<b>ITSM</b><br>
+Jira<br>
+Asset Management<br>
+Vendor Management
+</td>
+
 </tr>
 </table>
 
@@ -112,13 +167,14 @@ Currently building deeper expertise in
 
 <div align="center">
 
-## 🔬 **DEVOPS LAB**
+## 🔬 DEVOPS LAB
 
 </div>
 
 ```text
                          ┌─────────────────────┐
                          │       GitHub        │
+                         │    Source Code      │
                          └──────────┬──────────┘
                                     │
                                     ▼
@@ -131,14 +187,15 @@ Currently building deeper expertise in
                   ▼                 ▼                 ▼
              ┌─────────┐      ┌──────────┐      ┌─────────┐
              │ SonarQube│      │  Trivy   │      │  OWASP  │
-             │  Quality │      │ Security │      │   Scan  │
+             │  Quality │      │ Security │      │Dependency│
+             │  Scan    │      │  Scan    │      │  Check  │
              └────┬────┘      └────┬─────┘      └────┬────┘
                   │                 │                 │
                   └─────────────────┼─────────────────┘
                                     ▼
                          ┌─────────────────────┐
                          │       Docker        │
-                         │    Containers       │
+                         │     Containers      │
                          └──────────┬──────────┘
                                     │
                                     ▼
@@ -152,66 +209,53 @@ Currently building deeper expertise in
 
 <div align="center">
 
-## 🚀 **CURRENT LEARNING ROADMAP**
+## 🚀 CURRENT LEARNING ROADMAP
 
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,jenkins,terraform,python" />
 
 <br><br>
 
-| Area | Focus                                  |
-| :--: | :------------------------------------- |
-|  ☁️  | **AWS Cloud Infrastructure**           |
-|  ☁️  | **Azure Cloud Administration**         |
-|  🔄  | **CI/CD & Jenkins**                    |
-|  🐳  | **Docker & Containers**                |
-|  🏗️ | **Terraform & Infrastructure as Code** |
-|  🐧  | **Linux Administration**               |
-|  🐍  | **Python Automation**                  |
-|  🔐  | **DevSecOps & Cloud Security**         |
-
-</div>
-
----
-
-<div align="center">
-
-## 📂 **WHAT I'M BUILDING**
-
 <table>
 <tr>
-<td align="center" width="33%">
-
-### ☁️ AWS Projects
-
-AWS infrastructure
-VPC & Networking
-EC2 / S3 / IAM
-Cloud automation
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔄 DevOps Projects
-
-Jenkins pipelines
-Docker containers
-CI/CD automation
-DevSecOps
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Automation
-
-Python scripts
-PowerShell
-Linux automation
-Infrastructure as Code
-
-</td>
+<th>Area</th>
+<th>Focus</th>
 </tr>
+
+<tr>
+<td>☁️ Cloud</td>
+<td>AWS & Azure Infrastructure</td>
+</tr>
+
+<tr>
+<td>🔄 DevOps</td>
+<td>CI/CD, Jenkins & GitHub</td>
+</tr>
+
+<tr>
+<td>🐳 Containers</td>
+<td>Docker & Containerization</td>
+</tr>
+
+<tr>
+<td>🏗️ IaC</td>
+<td>Terraform & Infrastructure as Code</td>
+</tr>
+
+<tr>
+<td>🐧 Linux</td>
+<td>Linux Administration & Troubleshooting</td>
+</tr>
+
+<tr>
+<td>🐍 Automation</td>
+<td>Python & PowerShell</td>
+</tr>
+
+<tr>
+<td>🔐 DevSecOps</td>
+<td>Security Scanning & Cloud Security</td>
+</tr>
+
 </table>
 
 </div>
@@ -220,7 +264,56 @@ Infrastructure as Code
 
 <div align="center">
 
-## 📊 **GITHUB ANALYTICS**
+## 📂 PROJECTS I'M BUILDING
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ☁️ AWS Projects
+
+AWS Infrastructure
+VPC & Networking
+EC2 / S3 / IAM
+Cloud Automation
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔄 DevOps Projects
+
+Jenkins Pipelines
+Docker Containers
+CI/CD Automation
+DevSecOps
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Automation
+
+Python Scripts
+PowerShell
+Linux Automation
+Terraform IaC
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=nkranjih&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
@@ -236,7 +329,7 @@ Infrastructure as Code
 
 <div align="center">
 
-## 🏆 **GITHUB CONTRIBUTIONS**
+## 🏆 GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=nkranjih&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
@@ -246,22 +339,29 @@ Infrastructure as Code
 
 <div align="center">
 
-## 🎯 **2026 → 2027**
+## 🎯 2026 → 2027
 
 ### From IT Operations → Cloud Infrastructure → DevOps → Automation
 
+<br>
+
 ```text
-IT Infrastructure
-       ↓
-Cloud Engineering
-       ↓
-DevOps
-       ↓
-Infrastructure as Code
-       ↓
-DevSecOps
-       ↓
-Cloud Automation
+                 IT Infrastructure
+                        │
+                        ▼
+                 Cloud Engineering
+                        │
+                        ▼
+                      DevOps
+                        │
+                        ▼
+              Infrastructure as Code
+                        │
+                        ▼
+                    DevSecOps
+                        │
+                        ▼
+                Cloud Automation
 ```
 
 </div>
@@ -270,9 +370,9 @@ Cloud Automation
 
 <div align="center">
 
-## 💡 **MY APPROACH**
+## 💡 MY APPROACH
 
-> ### Learn → Build → Break → Fix → Automate → Repeat
+### Learn → Build → Break → Fix → Automate → Repeat
 
 I believe the best way to learn technology is by **building real projects, troubleshooting real problems, and automating repetitive work.**
 
@@ -282,11 +382,15 @@ I believe the best way to learn technology is by **building real projects, troub
 
 <div align="center">
 
-## 🤝 **LET'S CONNECT**
+## 🤝 LET'S CONNECT
 
-<a href="https://www.linkedin.com/in/ranjith-nk-4462b325/">
+<br>
+
+<a href="https://www.linkedin.com/in/ranjith-nk-lead-it/">
 <img src="https://img.shields.io/badge/LinkedIn-Ranjith_Bhaskaran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+  
 
 <a href="https://github.com/nkranjih">
 <img src="https://img.shields.io/badge/GitHub-nkranjih-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -295,5 +399,13 @@ I believe the best way to learn technology is by **building real projects, troub
 <br><br>
 
 ### ⭐ Explore my repositories and follow my Cloud & DevOps journey.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Skills. Building Infrastructure. Building the Future.
 
 </div>
