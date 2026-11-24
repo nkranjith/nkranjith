@@ -393,7 +393,7 @@ I believe the best way to learn technology is by **building real projects, troub
   
 
 <a href="https://github.com/nkranjith">
-<img src="https://img.shields.io/badge/GitHub-nkranjith-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ranjith_01-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
